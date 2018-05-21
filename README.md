@@ -23,3 +23,14 @@ Digital Ocean requires that the Pasword is changed immediately.  Yo can the cont
 
 ![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-1.PNG)
 
+
+
+## Step Two - Windows Wallet information
+
+Click on the second button (BLUE - windows controller wallet)
+
+![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-1.PNG)
+
+Set up your collateral as in  https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/windows%20cold%20wallet%20setup.md
+
+
