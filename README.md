@@ -18,3 +18,8 @@ If you are using Digital Ocean VPS, Simply highlight and copy all the relavant i
 Digital Ocean requires that the Pasword is changed immediately.  Yo can the contents of the Password entry will be made your final password.  (by clicking on the little orange square button will generate a random password)
 
 
+![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-2.PNG)
+
+
+![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-1.PNG)
+
