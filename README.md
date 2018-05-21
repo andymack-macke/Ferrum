@@ -67,6 +67,7 @@ After a few minutes it will finish the install phase.
 
 
 The Master Node is now syncronising its wallet.  This will take some time to finish.
+(FYI)  The status is checked once a minute.
 
 ![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-10.PNG)
 
