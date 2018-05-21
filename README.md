@@ -69,3 +69,12 @@ After a few minutes it will finish the install phase.
 The Master Node is now syncronising its wallet.  This will take some time to finish.
 
 ![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-10.PNG)
+
+
+When the Master Node wallet has fully sync'ed it will look like this.  
+
+
+
+It is time to shutdown the Ferrum Wallet and re-open it.  You should then Start the Master Node from the Cold wallet as in Step 9 of the Windows controller Guide.  
+https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/windows%20cold%20wallet%20setup.md
+
