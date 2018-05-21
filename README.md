@@ -33,6 +33,35 @@ Click on the second button (BLUE - windows controller wallet)
 
 Set up your collateral - do steps 1 to 5 in  https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/windows%20cold%20wallet%20setup.md
 
+Open the console on the Ferrum wallet.
+One at a time Click on the links shown below to copy the commands into clipboard, paste into the Ferrum Console and Enter.
+
+![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-4.PNG)
+
+Copy the result on the Console as shown below.
+
+![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-5.PNG)
+
+Click on the big Orange button `<Paste from Wallet Console>` and it will populate the appropriate entries.
+
+![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-6.PNG)
 
 
+## Step Three - Installation.
 
+Click on the thrid button down (Green - Install).
+
+Click on the square Orange button `<Run>`
+
+
+![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-7.PNG)
+
+
+After a few minutes it will finish the install phase.
+
+![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-9.PNG)
+
+
+The Master Node is now syncronising its wallet.  This will take some time to finish.
+
+![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-10.PNG)
