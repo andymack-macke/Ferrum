@@ -9,6 +9,10 @@ The FerrumMasterNoder is a Windows application - Wizard to install a Ferrrum Mas
 * Execute / Mange the script to setup the Master Node on the VPS
 * Monitor the status of the Masternode Server.
 
+### Installation
+
+download the install file at https://github.com/andymack-macke/FerrumMasterNoder/blob/master/Setup_FMN.msi
+
 ## Step One - VPS information
 
 If you're using Vultr VPS just copy and paste the IP and Password into the relative Text Boxes.
