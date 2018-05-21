@@ -81,5 +81,5 @@ It is time to shutdown the Ferrum Wallet and re-open it.  You should then Start 
 https://github.com/FerrumCommunity/Ferrum-Guides/blob/master/Windows%20Cold%20Wallet/windows%20cold%20wallet%20setup.md
 
 
-![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-10.PNG)
+![alt text](https://github.com/andymack-macke/FerrumMasterNoder/blob/master/FMN-13.PNG)
 
